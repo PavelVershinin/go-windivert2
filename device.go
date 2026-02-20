@@ -12,8 +12,8 @@ import (
 	"golang.org/x/net/ipv6"
 	"golang.org/x/sys/windows"
 
-	"github.com/sbilly/go-windivert2/internal/iana"
-	"github.com/sbilly/go-windivert2/internal/utils"
+	"github.com/PavelVershinin/go-windivert2/internal/iana"
+	"github.com/PavelVershinin/go-windivert2/internal/utils"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	windivert "github.com/sbilly/go-windivert2"
+	windivert "github.com/PavelVershinin/go-windivert2"
 )
 
 func main() {

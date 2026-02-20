@@ -1,6 +1,6 @@
-module github.com/sbilly/go-windivert2
+module github.com/PavelVershinin/go-windivert2
 
-go 1.21
+go 1.25
 
 require (
 	golang.org/x/net v0.19.0
